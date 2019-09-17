@@ -25,11 +25,17 @@ Easy access to the Most Common Applications made by Tkinter
       9) Chrome
 
 **Features To Be Released Soon**
+
       1) Reminder
       2) Password Helper
       3) Improving UI to the Existing Application
      
 **Images of the Personal Application**
 
-![](pic1.jpeg)
+![](pic1.jpeg)![](Pic2.jpeg)
 
+**Languages Used**
+
+    i)Python(tkinter)
+    
+    ii)BatchProgramming
